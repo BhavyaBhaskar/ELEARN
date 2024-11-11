@@ -20,7 +20,7 @@ function Header({ setCurrPage }) {
             <span onClick={() => setCurrPage("Home")}>HOME</span>
             <span onClick={() => setCurrPage("Course")}>COURSES</span>
             <span onClick={() => setCurrPage("Blog")}>BLOG</span>
-            <span onClick={() => setCurrPage("Team")}>TEAM</span>
+            <span onClick={() => setCurrPage("Team")}>GRADE</span>
             <span onClick={() => setCurrPage("Library")}>LIBRARY</span>
             <span onClick={() => setCurrPage("Contact")}>CONTACT US</span>
           </div>
