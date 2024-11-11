@@ -2,7 +2,6 @@
 /* eslint-disable no-unused-vars */
 import { useState } from "react";
 import supabase from "../../supabase.js";
-import { set } from "mongoose";
 
 /* eslint-disable react/no-unescaped-entities */
 function Categories() {
